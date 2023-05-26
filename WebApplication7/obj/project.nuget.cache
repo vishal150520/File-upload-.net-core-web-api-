@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ewYvdm6bP/lVBx1JeTu+qYfbl3eise3xQegMFkYpz1Y6+N1a+nIG0GQOtX392OJcCpyXp3MfK2QEeP5Xn2fqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stame\\OneDrive\\Desktop\\Vishal Data\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stame\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
